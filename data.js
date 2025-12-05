@@ -25,7 +25,7 @@ const siteData = {
 
     // ৪. ভিডিও লিংক
     videoLinkSystem: "https://www.youtube.com/embed/8n9cjJT0h4c", 
-    videoManualSystem: "https://www.youtube.com/embed/MZEbieYtfH0"
+    videoManualSystem: "https://www.youtube.com/embed/mj5Bgrvja80"
 };
 
 
