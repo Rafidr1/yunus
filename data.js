@@ -24,7 +24,7 @@ const siteData = {
     facebookLink: "https://www.facebook.com/share/17UFEqGQ1z/",
 
     // ৪. ভিডিও লিংক
-    videoLinkSystem: "https://www.youtube.com/embed/8n9cjJT0h4c", 
+    videoLinkSystem: "https://youtube.com/embed/YFTlsA1wDuc", 
     videoManualSystem: "https://www.youtube.com/embed/mj5Bgrvja80"
 };
 
